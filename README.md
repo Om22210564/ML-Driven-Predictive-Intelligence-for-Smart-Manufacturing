@@ -1,4 +1,4 @@
-### 🏭 Smart Manufacturing Analytics & Digital Twin Simulation
+## 🏭 Smart Manufacturing Analytics & Digital Twin Simulation
 
 📌 Project Overview
 
